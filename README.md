@@ -25,6 +25,6 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](www.linkedin.com/in/mohamed-abdallah-372987356)  
+[![LinkedIn]( www.linkedin.com/in/mohamed-abdallah-372987356 )  
 [![GitHub](https://github.com/eng-mohamed-abdallah1)  
 📧 **mohamedabdullahabobakr2@gmail.com**
