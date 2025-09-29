@@ -27,4 +27,4 @@
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-abdallah-372987356)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/eng-mohamed-abdallah1)
-📧 **mohamedabdullahabobakr2@gmail.com**
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.abdullaahh.123@gmail.com)
